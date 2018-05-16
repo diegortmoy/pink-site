@@ -1,0 +1,73 @@
+/* ----- ----- ----- ----- */
+    /* Estilos Generales */
+/* ----- ----- ----- ----- */
+
+/* ----- ----- ----- ----- */
+    /* body{
+    background: #42AB9E;
+} */
+/* ----- ----- ----- ----- */
+
+body{
+    background: #FFD9CC;
+    font-family: 'Helvetica';
+}
+
+.nav-item:hover > .nav-link:hover{
+    color:#FFD9CC;
+    background: #442C2E;
+}
+
+.menu:hover{
+    color:#442C2E;
+    opacity: 2;
+}
+
+.brand{
+    opacity: .8;
+}
+
+main{
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+h1  {
+    color:#442C2E;
+    padding: 30px 50px 0px 50px;
+    opacity: .8;
+}
+
+section{
+    padding: 0px 20px;
+}
+
+.pics{
+    padding: 10px 50px;
+}
+
+.section-pics{
+    padding-top: 70px;
+}
+
+.section-bottom{
+    padding-bottom: 70px;
+}
+
+footer{
+    background:  #F0CAC0;
+    color:#442C2E;
+    padding: 20px 0px;
+    text-align: center;
+    opacity: .8;
+}
+
+.copyright{
+    color: #442C2E;
+}
+
+.copyright:hover{
+    color:#442C2E;
+    opacity: 2;
+}
